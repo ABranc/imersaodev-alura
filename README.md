@@ -1,2 +1,3 @@
-# imersaodev-alura
-Projetos realizados durante a imersão dev da alura
+# Alura imersao.dev!
+
+Este foi um dos projetos que realizamos durante a imersão Dev, onde criamos um jogo parecido com o Super Trunfo!
